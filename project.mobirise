@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-30_1409-clone",
+    "name": "Santa Photo Social",
     "currentPage": "index.html",
     "theme": {
       "name": "unicore",
@@ -21,13 +21,17 @@
     "siteFonts": [],
     "uniqCompNum": 9,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/img-1625-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Santa Photo Social Images",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
