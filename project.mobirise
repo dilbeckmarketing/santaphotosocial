@@ -1,0 +1,340 @@
+{
+  "settings": {
+    "name": "Site-10-30_1409-clone",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore",
+      "styling": {
+        "primaryColor": "#29d9c2",
+        "successColor": "#7ac673",
+        "infoColor": "#27aae0",
+        "warningColor": "#faaf40",
+        "dangerColor": "#f97352",
+        "titleFont": "Montserrat",
+        "textFont": "Raleway",
+        "isSquareButtons": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.3",
+    "siteFonts": [],
+    "uniqCompNum": 9,
+    "versionPublish": "4.8.6",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "SANTA PHOTO EVENT SOCIAL SHARES | Option A",
+          "text": "The images below are designed to be shared on Facebook, Instagram, and Twitter in support of Dilbeck's Santa Photo Events. Each office has their own social media share and are labeled below.<br><br>To download the images:<br>1 – Right-click on the image you wish to save.<br>2 – Click \"Save picture as\"…<br>3 – Navigate to the folder where you wish to save the image to, then click Save.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://mobirise.com\">Purchase now</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-5"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "filter": false,
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "images": [
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-arcadia-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-arcadia-816x528-800x518.jpg",
+                "caption": "Arcadia",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-burbank-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-burbank-816x528-800x518.jpg",
+                "caption": "Burbank",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-camarillo-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-camarillo-816x528-800x518.jpg",
+                "caption": "Camarillo",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Creative",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-glendale-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-glendale-816x528-800x518.jpg",
+                "caption": "Glendale",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-glendora-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-glendora-816x528-800x518.jpg",
+                "caption": "Glendora",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Beautiful",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-la-canada-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-la-canada-816x528-800x518.jpg",
+                "caption": "La Canada",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-pasadena-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-pasadena-816x528-800x518.jpg",
+                "caption": "Pasadena",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-san-marino-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-san-marino-816x528-800x518.jpg",
+                "caption": "San Marino",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-santa-clarita-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-santa-clarita-816x528-800x518.jpg",
+                "caption": "Santa Clarita",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-studio-city-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-studio-city-816x528-800x518.jpg",
+                "caption": "Studio City",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-wlv-816x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2018-santa-mail-pcv1-wlv-816x528-800x518.jpg",
+                "caption": "Westlake Village<br>",
+                "active": true,
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "SANTA PHOTO EVENT SOCIAL SHARES | Option B",
+          "text": "The images below are designed to be shared on Facebook, Instagram, and Twitter in support of Dilbeck's Santa Photo Events. Each office has their own social media share and are labeled below.<br><br>To download the images:<br>1 – Right-click on the image you wish to save.<br>2 – Click \"Save picture as\"…<br>3 – Navigate to the folder where you wish to save the image to, then click Save.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"https://mobirise.com\">Purchase now</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-7"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "filter": false,
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "images": [
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/arcadia-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/arcadia-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "Arcadia",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Awesome",
+                "image": "@PROJECT_PATH@/assets/images/burbank-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/burbank-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "Burbank<br>",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "image": "@PROJECT_PATH@/assets/images/camarillo-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/camarillo-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "Camarillo<br>",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Creative",
+                "image": "@PROJECT_PATH@/assets/images/glendale-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glendale-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "Glendale",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/glendora-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glendora-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "Glendora",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Beautiful",
+                "image": "@PROJECT_PATH@/assets/images/la-canada-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/la-canada-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "La Canada",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/pasadena-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pasadena-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "Pasadena",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/san-marino-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/san-marino-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "San Marino",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/santa-clarita-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/santa-clarita-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "Santa Clarita",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/studio-city-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/studio-city-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "Studio City",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Animated",
+                "image": "@PROJECT_PATH@/assets/images/westlake-village-dilbeck-santa-social-2018-1200x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/westlake-village-dilbeck-santa-social-2018-1200x1500-800x1000.jpg",
+                "caption": "Westlake Village",
+                "active": true,
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-3"
+        }
+      ]
+    }
+  }
+}
